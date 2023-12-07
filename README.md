@@ -62,13 +62,13 @@
 ###  𝕃'𝕦𝕤𝕠 𝕕𝕚 𝕋𝕙𝕖𝕄𝕒𝕤𝕜 𝕡𝕖𝕣 𝕒𝕥𝕥𝕒𝕔𝕔𝕒𝕣𝕖 𝕠𝕓𝕚𝕖𝕥𝕥𝕚𝕧𝕚 𝕤𝕖𝕟𝕫𝕒 𝕚𝕝 𝕔𝕠𝕟𝕤𝕖𝕟𝕤𝕠 𝕣𝕖𝕔𝕚𝕡𝕣𝕠𝕔𝕠 è 𝕚𝕝𝕝𝕖𝕘𝕒𝕝𝕖. È 𝕣𝕖𝕤𝕡𝕠𝕟𝕤𝕒𝕓𝕚𝕝𝕚𝕥à 𝕕𝕖𝕝𝕝'𝕦𝕥𝕖𝕟𝕥𝕖 𝕗𝕚𝕟𝕒𝕝𝕖 𝕠𝕓𝕓𝕖𝕕𝕚𝕣𝕖 𝕒 𝕥𝕦𝕥𝕥𝕖 𝕝𝕖 𝕝𝕖𝕘𝕘𝕚 𝕝𝕠𝕔𝕒𝕝𝕚, 𝕤𝕥𝕒𝕥𝕒𝕝𝕚 𝕖 𝕗𝕖𝕕𝕖𝕣𝕒𝕝𝕚 𝕒𝕡𝕡𝕝𝕚𝕔𝕒𝕓𝕚𝕝𝕚. 𝔾𝕝𝕚 𝕤𝕧𝕚𝕝𝕦𝕡𝕡𝕒𝕥𝕠𝕣𝕚 𝕟𝕠𝕟 𝕤𝕚 𝕒𝕤𝕤𝕦𝕞𝕠𝕟𝕠 𝕒𝕝𝕔𝕦𝕟𝕒 𝕣𝕖𝕤𝕡𝕠𝕟𝕤𝕒𝕓𝕚𝕝𝕚𝕥à 𝕖 𝕟𝕠𝕟 𝕤𝕠𝕟𝕠 𝕣𝕖𝕤𝕡𝕠𝕟𝕤𝕒𝕓𝕚𝕝𝕚 𝕡𝕖𝕣 𝕢𝕦𝕒𝕝𝕤𝕚𝕒𝕤𝕚 𝕦𝕤𝕠 𝕚𝕞𝕡𝕣𝕠𝕡𝕣𝕚𝕠 𝕠 𝕕𝕒𝕟𝕟𝕠 𝕔𝕒𝕦𝕤𝕒𝕥𝕠 𝕕𝕒 𝕢𝕦𝕖𝕤𝕥𝕠 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕒 𝕘𝕣𝕒𝕫𝕚𝕖.
 
 <img width="200%" src="hr.gif" />
-
 <div align="center">
 
-<img align="center" title="Github" alt="Github" width="200px" src="1701192416682.png" /> 𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 ::: ElaNyx :::
-<img src="https://c.tenor.com/9q01NW8hcEcAAAAi/mokkapresti-monica-presti.gif" width="30px">   
+<img align="center" title="Github" alt="Github" width="200px" src="1701192416682.png" /> 
+<h5>𝓡𝓮𝓪𝓭𝓶𝓮 𝓑𝔂 ::: ElaNyx :::</h5>
+<img src="https://c.tenor.com/9q01NW8hcEcAAAAi/mokkapresti-monica-presti.gif" width="30px">  
+
 </div>
-> 
 
 
 
